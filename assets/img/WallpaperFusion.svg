@@ -1,0 +1,36 @@
+<svg id="WallpaperFusion" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23.982" height="20.953" viewBox="0 0 23.982 20.953">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.514" y1="1.043" x2="0.333" y2="-0.009" gradientUnits="objectBoundingBox">
+      <stop offset="0.18" stop-color="#f57d20"/>
+      <stop offset="0.61" stop-color="#f59020"/>
+      <stop offset="1" stop-color="#f5a420"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.489" y1="1.111" x2="0.502" y2="-0.128" gradientUnits="objectBoundingBox">
+      <stop offset="0.18" stop-color="#9dac30"/>
+      <stop offset="0.43" stop-color="#a3b330"/>
+      <stop offset="0.8" stop-color="#b2c830"/>
+      <stop offset="1" stop-color="#bcd530"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.426" y1="1.271" x2="0.537" y2="-0.132" gradientUnits="objectBoundingBox">
+      <stop offset="0.15" stop-color="#01a5bc"/>
+      <stop offset="0.37" stop-color="#06afc7"/>
+      <stop offset="0.76" stop-color="#14cbe5"/>
+      <stop offset="1" stop-color="#1edefa"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.525" y1="0.525" x2="0.153" y2="0.152" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#01a5bc"/>
+      <stop offset="0.08" stop-color="#01a8bf"/>
+      <stop offset="0.14" stop-color="#01b1c9"/>
+      <stop offset="0.2" stop-color="#01c0d9"/>
+      <stop offset="0.25" stop-color="#00d6f0"/>
+      <stop offset="0.27" stop-color="#00e1fc"/>
+    </linearGradient>
+  </defs>
+  <path id="Path" d="M4.509,17.967V16.545H1.527V0H0V17.967S4.516,17.96,4.509,17.967Z" transform="translate(0 2.949)" fill="url(#linear-gradient)"/>
+  <path id="Path-2" data-name="Path" d="M17.964,0V1.531H1.527V17.967H0V0Z" transform="translate(2.982)" fill="url(#linear-gradient-2)"/>
+  <path id="Path-3" data-name="Path" d="M18.036,0V12.036h-6v5.927L0,17.956V0Z" transform="translate(5.927 2.985)" fill="url(#linear-gradient-3)"/>
+  <circle id="Oval" cx="2.836" cy="2.836" r="2.836" transform="translate(8.447 4.502)" fill="#87f8ff"/>
+  <path id="Path-4" data-name="Path" d="M0,7.52H11.738L11.5,5.535,6.04,0Z" transform="translate(7.436 11.975)" fill="#87f8ff"/>
+  <path id="Path-5" data-name="Path" d="M3.542,0,5.793,2.24V7.905l-2.124.145L0,4.385Z" transform="translate(16.68 7.916)" fill="#87f8ff"/>
+  <path id="Path-6" data-name="Path" d="M6.018,0,0,5.931H0V0Z" transform="translate(17.964 15.022)" fill="url(#linear-gradient-4)"/>
+</svg>
